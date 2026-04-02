@@ -10,7 +10,8 @@ This project simulates the high-stakes environment of a 1960s recording studio. 
 
 - **Tracking:** Use Tracks 1–3 for initial instrument recording.
 - **Bouncing:** Combine tracks to free up space, but watch your quality!
-- **Sonic Degradation:** _ 1–2 Bounces: Pristine
+- **Sonic Degradation:**
+  _ 1–2 Bounces: Pristine
       _ 3–4 Bounces: Warm
       _ 5–6 Bounces: Muddy
       _ 7+ Bounces: Unusable
